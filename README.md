@@ -1,6 +1,6 @@
 <h1>Aplikacja do hotelowego systemu rezerwacji</h1>
 
-## Skład grupy
+## Skład grupy (projekt skopiowany z Bitbucket)
 Patryk Czuchnowski (patczuch@student.agh.edu.pl) <br />
 Andrzej Wacławik (wajarema@student.agh.edu.pl) <br />
 Michał Pędrak (michalpedrak@student.agh.edu.pl) <br />
