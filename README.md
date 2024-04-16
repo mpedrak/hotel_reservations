@@ -3,7 +3,7 @@
 ## Skład grupy (projekt skopiowany z Bitbucket)
 Patryk Czuchnowski (patczuch@student.agh.edu.pl) https://github.com/patczuch <br />
 Andrzej Wacławik (wajarema@student.agh.edu.pl) https://github.com/kottajl<br />
-Michał Pędrak (michalpedrak@student.agh.edu.pl) https://github.com/mpedrak <br />
+Michał Pędrak (michalpedrak@student.agh.edu.pl) <br />
 
 ## Charakterystyka problemu
 W ramach projektu tworzymy aplikację do zarządzania rezerwacjami pokoi dla pracowników pewnej firmy hotelowej.
